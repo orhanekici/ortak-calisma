@@ -41,3 +41,8 @@ ortak çalışma için güncelleme - dursun
 
 
 umarım bu sefer olmuştur 🥲 -miray
+
+Bu gün dersimizde 
+PR (pull request) konusu test edilecek
+
+Şahin EROL PR  çalışması
