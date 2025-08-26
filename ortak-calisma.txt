@@ -1,2 +1,3 @@
 Bugün dersimizde
 PR (pull request) konusunu test edeceğiz.
+Nihat branch'inden bir güncelleme
