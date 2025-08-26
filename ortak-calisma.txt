@@ -1,0 +1,2 @@
+Bugün dersimizde
+PR (pull request) konusunu test edeceğiz.
