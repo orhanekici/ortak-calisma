@@ -3,6 +3,16 @@ PR (pull request) konusunu test edeceğiz.
 Nihat branch'inden bir güncelleme
 fork ile projeyi kendi repoma çekip buradan güncelleme yapacağım
 
+Gökyüzü serer umutla mavi,
+Rüzgar dokunur kalbime hafifçe.
+Bir an durur zaman, sessiz ve saf,
+İçimde doğar yeniden hayat hece hece.
+
+Gözlerimde biriken gün ışığı,
+Yüreğimde dalgalanan sessiz deniz.
+Her adımda yeniden doğar hayat,
+Umuda açılır gizli bir kapı.
+
 Ömer KULUÇ
 Yav sen yanlis yapmadın soru yanlısmıs yavvv / mako
 
@@ -38,7 +48,6 @@ Mustafa’yla hür gezersin
 Eşini ara ceylan gözlüm
 
 ortak çalışma için güncelleme - dursun
-
 
 umarım bu sefer olmuştur 🥲 -miray
 
