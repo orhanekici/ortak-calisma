@@ -2,3 +2,4 @@ BugÃ¼n dersimizde
 PR (pull request) konusunu test edeceÄŸiz.
 Nihat branch'inden bir gÃ¼ncelleme
 fork ile projeyi kendi repoma Ã§ekip buradan gÃ¼ncelleme yapacaÄŸÄ±mBugün Levent bu dosyada değişiklik yaptı.
+Bugün Levent bu dosyada değişiklik yaptı.
