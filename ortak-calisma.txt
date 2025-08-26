@@ -1,3 +1,4 @@
 Bugün dersimizde
 PR (pull request) konusunu test edeceğiz.
 Nihat branch'inden bir güncelleme
+fork ile projeyi kendi repoma çekip buradan güncelleme yapacağım
